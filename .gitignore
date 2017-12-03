@@ -2,3 +2,12 @@
 *.txt
 *.csv
 *.xlsx
+presentation/*
+report/*
+*.pptx
+*.docx
+*.py
+_python/*
+output/*
+papers/*
+trash/*
